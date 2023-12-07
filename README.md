@@ -1,4 +1,4 @@
-# RemoveDuplicatesfromArray
+# DSA-Codes
 C-program to remove duplicates from the sorted array
 `#include <stdio.h>
 int removeduplicates(int arr[],int n){
